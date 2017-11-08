@@ -1,0 +1,14 @@
+C:\Users\student\Documents\Visual Studio 2017\Projects\Lab02-IO\Lab02-IO\bin\Debug\Lab02-IO.exe.config
+C:\Users\student\Documents\Visual Studio 2017\Projects\Lab02-IO\Lab02-IO\bin\Debug\Lab02-IO.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\Lab02-IO\Lab02-IO\bin\Debug\Lab02-IO.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\Lab02-IO\Lab02-IO\obj\Debug\Lab02-IO.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\Lab02-IO\Lab02-IO\obj\Debug\Lab02-IO.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\Lab02-IO\Lab02-IO\obj\Debug\Lab02-IO.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\Lab02-IO\Lab02-IO\obj\Debug\Lab02-IO.pdb
+C:\Users\Krolik\VisualStudioProjects\Lab02-IO\Lab02-IO\bin\Debug\Lab02-IO.exe.config
+C:\Users\Krolik\VisualStudioProjects\Lab02-IO\Lab02-IO\bin\Debug\Lab02-IO.exe
+C:\Users\Krolik\VisualStudioProjects\Lab02-IO\Lab02-IO\bin\Debug\Lab02-IO.pdb
+C:\Users\Krolik\VisualStudioProjects\Lab02-IO\Lab02-IO\obj\Debug\Lab02-IO.csprojResolveAssemblyReference.cache
+C:\Users\Krolik\VisualStudioProjects\Lab02-IO\Lab02-IO\obj\Debug\Lab02-IO.csproj.CoreCompileInputs.cache
+C:\Users\Krolik\VisualStudioProjects\Lab02-IO\Lab02-IO\obj\Debug\Lab02-IO.exe
+C:\Users\Krolik\VisualStudioProjects\Lab02-IO\Lab02-IO\obj\Debug\Lab02-IO.pdb
