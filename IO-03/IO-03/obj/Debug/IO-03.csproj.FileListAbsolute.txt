@@ -1,0 +1,7 @@
+C:\Users\Krolik\source\repos\IO-03\IO-03\bin\Debug\IO-03.exe.config
+C:\Users\Krolik\source\repos\IO-03\IO-03\bin\Debug\IO-03.exe
+C:\Users\Krolik\source\repos\IO-03\IO-03\bin\Debug\IO-03.pdb
+C:\Users\Krolik\source\repos\IO-03\IO-03\obj\Debug\IO-03.csprojResolveAssemblyReference.cache
+C:\Users\Krolik\source\repos\IO-03\IO-03\obj\Debug\IO-03.csproj.CoreCompileInputs.cache
+C:\Users\Krolik\source\repos\IO-03\IO-03\obj\Debug\IO-03.exe
+C:\Users\Krolik\source\repos\IO-03\IO-03\obj\Debug\IO-03.pdb
