@@ -1,0 +1,7 @@
+C:\Users\Krolik\source\repos\Lab_IO_4\Lab_IO_4\bin\Debug\Lab_IO_4.exe.config
+C:\Users\Krolik\source\repos\Lab_IO_4\Lab_IO_4\bin\Debug\Lab_IO_4.exe
+C:\Users\Krolik\source\repos\Lab_IO_4\Lab_IO_4\bin\Debug\Lab_IO_4.pdb
+C:\Users\Krolik\source\repos\Lab_IO_4\Lab_IO_4\obj\Debug\Lab_IO_4.csprojResolveAssemblyReference.cache
+C:\Users\Krolik\source\repos\Lab_IO_4\Lab_IO_4\obj\Debug\Lab_IO_4.csproj.CoreCompileInputs.cache
+C:\Users\Krolik\source\repos\Lab_IO_4\Lab_IO_4\obj\Debug\Lab_IO_4.exe
+C:\Users\Krolik\source\repos\Lab_IO_4\Lab_IO_4\obj\Debug\Lab_IO_4.pdb
